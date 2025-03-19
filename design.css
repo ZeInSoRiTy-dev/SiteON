@@ -59,6 +59,7 @@ p.About {
     color: rgb(241, 241, 241);
     font-family: time;
     font-weight: bold;
+    white-space: pre-line;
 }
 
 .h1_header {
@@ -245,7 +246,7 @@ p.About {
 .nxt-btn {
     border: none;
     width: 5vw;
-    height: 100%;
+    height: 23vw;
     position: absolute;
     top: 0;
     display: flex;
@@ -258,8 +259,8 @@ p.About {
 .pre-btn {
     border: none;
     width: 5vw;
-    height: 100%;
     position: absolute;
+    height: 23vw;
     top: 0;
     display: flex;
     justify-content: center;
